@@ -17,10 +17,6 @@ sites:
     url: https://www.bbvaopenmind.com/
   - name: Research
     url: https://www.bbvaresearch.com/
-  - name: Openweb Service - Domains
-    url: $OPENWEB_HEALTH_PLAY/domains
-    maxResponseTime: 10000
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
