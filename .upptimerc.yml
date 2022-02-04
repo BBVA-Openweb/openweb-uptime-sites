@@ -19,7 +19,7 @@ sites:
     url: https://www.bbvaresearch.com/
   - name: Openweb Service - Domains
     url: $OPENWEB_HEALTH_PLAY/domains
-  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,6 +37,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Openweb
       href: https://webpublicas.bbva.com/
+  favicon: https://cdn.openweb.bbva/favicon/bbva/favicon-96x96
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
