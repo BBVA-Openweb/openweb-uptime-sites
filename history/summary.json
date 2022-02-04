@@ -130,19 +130,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/domains",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-domains",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 4038,
-    "timeDay": 4038,
-    "timeWeek": 4038,
-    "timeMonth": 4038,
-    "timeYear": 4038,
+    "status": "up",
+    "uptime": "95.98%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
+    "time": 4128,
+    "timeDay": 4128,
+    "timeWeek": 4128,
+    "timeMonth": 4128,
+    "timeYear": 4128,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 5
     }
   }
 ]
