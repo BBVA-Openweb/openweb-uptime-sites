@@ -130,19 +130,19 @@
     "url": "https://play.openweb.bbva/api/v2/health/domains",
     "icon": "https://favicons.githubusercontent.com/play.openweb.bbva",
     "slug": "openweb-service-domains",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 5478,
-    "timeDay": 5478,
-    "timeWeek": 5478,
-    "timeMonth": 5478,
-    "timeYear": 5478,
+    "status": "up",
+    "uptime": "69.17%",
+    "uptimeDay": "69.17%",
+    "uptimeWeek": "69.17%",
+    "uptimeMonth": "69.17%",
+    "uptimeYear": "69.17%",
+    "time": 5015,
+    "timeDay": 5015,
+    "timeWeek": 5015,
+    "timeMonth": 5015,
+    "timeYear": 5015,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 11
     }
   }
 ]
