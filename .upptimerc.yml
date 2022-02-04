@@ -37,6 +37,7 @@ status-website:
       href: /
     - title: Openweb
       href: https://webpublicas.bbva.com/
+  robotsText: "User-agent: * \n Disallow: /"
 
 
 # Upptime also supports notifications, assigning issues, and more
