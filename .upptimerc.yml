@@ -17,6 +17,8 @@ sites:
     url: https://www.bbvaopenmind.com/
   - name: Research
     url: https://www.bbvaresearch.com/
+  - name: Openweb Service - Domains
+    url: https://play.openweb.bbva/api/v2/health/domains
   
 
 status-website:
