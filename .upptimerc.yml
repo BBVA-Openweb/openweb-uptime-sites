@@ -23,8 +23,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.openweb.bbva
-  baseUrl: /uptime-sites
+  cname: uptime.openweb.bbva
+  # baseUrl: /uptime-sites
   logoUrl: https://cdn.openweb.bbva/logos/openweb/small.png
   favicon: https://cdn.openweb.bbva/favicon/bbva/favicon-96x96.png
   name: Openweb Sites - Upptime
@@ -38,7 +38,6 @@ status-website:
     - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
