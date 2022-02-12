@@ -5,18 +5,25 @@ repo: uptime-sites # The name of this repository
 sites:
   - name: Accionistas e Inversores (es)
     url: https://accionistaseinversores.bbva.com/
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Accionistas e Inversores (en)
     url: https://shareholdersandinvestors.bbva.com/
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: BBVA IT Spain
     url: 	https://www.bbvaitspain.com
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: BBVA.com
     url: https://www.bbva.com
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Fundación BBVA
     url: https://www.fbbva.es/
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: OpenMind
     url: https://www.bbvaopenmind.com/
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Research
     url: https://www.bbvaresearch.com/
+    icon: https://webpublicas.bbva.com/assets/images/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
