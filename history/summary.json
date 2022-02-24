@@ -76,18 +76,20 @@
     "url": "https://www.fbbva.es/",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "fundacion-bbva",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 440,
-    "timeWeek": 408,
-    "timeMonth": 410,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "time": 411,
+    "timeDay": 447,
+    "timeWeek": 414,
+    "timeMonth": 411,
+    "timeYear": 411,
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   },
   {
     "name": "OpenMind",
