@@ -96,9 +96,9 @@
     "url": "https://www.bbvaopenmind.com/",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "open-mind",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 238,
     "timeMonth": 218,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-28": 0
+    }
   },
   {
     "name": "Research",
