@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 670,
-    "timeWeek": 483,
-    "timeMonth": 511,
-    "timeYear": 507,
+    "time": 506,
+    "timeDay": 316,
+    "timeWeek": 449,
+    "timeMonth": 508,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2022-08-20": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 504,
-    "timeWeek": 468,
-    "timeMonth": 462,
+    "timeDay": 492,
+    "timeWeek": 458,
+    "timeMonth": 466,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2022-08-20": 17
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 882,
-    "timeDay": 1142,
-    "timeWeek": 942,
+    "timeDay": 1079,
+    "timeWeek": 970,
     "timeMonth": 929,
     "timeYear": 882,
     "dailyMinutesDown": {}
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 985,
-    "timeWeek": 808,
-    "timeMonth": 805,
+    "timeDay": 965,
+    "timeWeek": 837,
+    "timeMonth": 810,
     "timeYear": 797,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 484,
-    "timeDay": 296,
-    "timeWeek": 400,
-    "timeMonth": 439,
+    "timeDay": 493,
+    "timeWeek": 385,
+    "timeMonth": 436,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2022-08-20": 17,
@@ -108,8 +108,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 244,
-    "timeDay": 387,
-    "timeWeek": 302,
+    "timeDay": 119,
+    "timeWeek": 269,
     "timeMonth": 242,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 474,
-    "timeWeek": 471,
-    "timeMonth": 462,
+    "timeDay": 414,
+    "timeWeek": 473,
+    "timeMonth": 465,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2022-08-20": 17
