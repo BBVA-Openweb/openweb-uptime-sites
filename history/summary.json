@@ -44,9 +44,9 @@
     "url": "https://www.bbvaitspain.com",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "bbva-it-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 1059,
     "timeMonth": 1051,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   },
   {
     "name": "BBVA.com",
