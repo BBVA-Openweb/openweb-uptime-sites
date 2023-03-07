@@ -62,18 +62,20 @@
     "url": "https://www.bbva.com",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "bbva-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 1099,
-    "timeWeek": 968,
-    "timeMonth": 830,
-    "timeYear": 787,
-    "dailyMinutesDown": {}
+    "time": 835,
+    "timeDay": 8251,
+    "timeWeek": 2772,
+    "timeMonth": 1333,
+    "timeYear": 827,
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "Fundación BBVA",
