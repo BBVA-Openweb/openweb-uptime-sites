@@ -62,19 +62,19 @@
     "url": "https://www.bbva.com",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "bbva-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 8251,
-    "timeWeek": 2772,
-    "timeMonth": 1333,
-    "timeYear": 827,
+    "time": 838,
+    "timeDay": 6245,
+    "timeWeek": 2713,
+    "timeMonth": 1363,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 11
     }
   },
   {
