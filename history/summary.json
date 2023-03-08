@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 638,
-    "timeWeek": 598,
-    "timeMonth": 633,
-    "timeYear": 573,
+    "time": 554,
+    "timeDay": 807,
+    "timeWeek": 666,
+    "timeMonth": 630,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2022-08-20": 17
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 649,
-    "timeWeek": 535,
-    "timeMonth": 531,
+    "time": 495,
+    "timeDay": 658,
+    "timeWeek": 541,
+    "timeMonth": 527,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-08-20": 17
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 945,
-    "timeDay": 1354,
-    "timeWeek": 1284,
-    "timeMonth": 1171,
-    "timeYear": 975,
+    "timeDay": 926,
+    "timeWeek": 1204,
+    "timeMonth": 1162,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -64,18 +64,16 @@
     "slug": "bbva-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 6245,
-    "timeWeek": 2713,
-    "timeMonth": 1363,
-    "timeYear": 831,
-    "dailyMinutesDown": {
-      "2023-03-07": 11
-    }
+    "timeDay": 6131,
+    "timeWeek": 2691,
+    "timeMonth": 1352,
+    "timeYear": 832,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fundación BBVA",
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 674,
-    "timeWeek": 559,
-    "timeMonth": 537,
-    "timeYear": 511,
+    "time": 496,
+    "timeDay": 670,
+    "timeWeek": 543,
+    "timeMonth": 538,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2022-08-20": 17
     }
@@ -108,10 +106,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 402,
-    "timeWeek": 302,
-    "timeMonth": 336,
+    "time": 279,
+    "timeDay": 435,
+    "timeWeek": 324,
+    "timeMonth": 335,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-08-20": 17,
@@ -130,10 +128,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
-    "timeDay": 850,
-    "timeWeek": 598,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "timeDay": 587,
+    "timeWeek": 567,
+    "timeMonth": 519,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2022-08-20": 17
     }
