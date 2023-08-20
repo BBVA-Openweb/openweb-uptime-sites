@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 607,
-    "timeWeek": 864,
-    "timeMonth": 647,
+    "timeDay": 496,
+    "timeWeek": 740,
+    "timeMonth": 642,
     "timeYear": 603,
-    "dailyMinutesDown": {
-      "2022-08-20": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accionistas e Inversores (en)",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 413,
-    "timeWeek": 623,
-    "timeMonth": 551,
-    "timeYear": 545,
-    "dailyMinutesDown": {
-      "2022-08-20": 17
-    }
+    "time": 534,
+    "timeDay": 952,
+    "timeWeek": 611,
+    "timeMonth": 562,
+    "timeYear": 544,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BBVA IT Spain",
@@ -51,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1059,
-    "timeDay": 1422,
-    "timeWeek": 1088,
-    "timeMonth": 1181,
-    "timeYear": 1109,
+    "timeDay": 702,
+    "timeWeek": 1060,
+    "timeMonth": 1169,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 1961,
-    "timeWeek": 1019,
-    "timeMonth": 852,
-    "timeYear": 860,
+    "timeDay": 475,
+    "timeWeek": 926,
+    "timeMonth": 843,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -86,14 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 1202,
-    "timeWeek": 724,
-    "timeMonth": 770,
-    "timeYear": 581,
-    "dailyMinutesDown": {
-      "2022-08-20": 17
-    }
+    "time": 570,
+    "timeDay": 806,
+    "timeWeek": 767,
+    "timeMonth": 776,
+    "timeYear": 582,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OpenMind",
@@ -107,13 +101,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 120,
-    "timeWeek": 171,
-    "timeMonth": 267,
+    "timeDay": 221,
+    "timeWeek": 173,
+    "timeMonth": 265,
     "timeYear": 328,
-    "dailyMinutesDown": {
-      "2022-08-20": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Research",
@@ -127,12 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 487,
-    "timeWeek": 633,
-    "timeMonth": 555,
+    "timeDay": 462,
+    "timeWeek": 651,
+    "timeMonth": 554,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2022-08-20": 17
-    }
+    "dailyMinutesDown": {}
   }
 ]
